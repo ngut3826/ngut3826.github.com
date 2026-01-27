@@ -1,1 +1,95 @@
-# ngut3826.github.com
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>mlabdpforlsjhew</title>
+    <meta name="description" content="Page Web TP1 mlabdpforlsjhew">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #a1abb4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #1e293b;
+            color: #ffffff;
+            padding: 32px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 32px auto;
+            padding: 0 16px;
+        }
+
+        section {
+            background-color: #ffffff;
+            padding: 24px;
+            margin-bottom: 24px;
+            border-radius: 6px;
+        }
+
+        h2 {
+            color: #1e293b;
+        }
+
+        .changelog {
+            list-style-type: square;
+            padding-left: 24px;
+        }
+
+        footer {
+            background-color: #e5e7eb;
+            text-align: center;
+            padding: 16px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>mlabdpforlsjhew</h1>
+        <p>Définition et utilisation du mot mlabdpforlsjhew.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Qu&apos;est-ce que mlabdpforlsjhew ?</h2>
+            <p>
+                <strong>Définition</strong> : Le terme <strong>mlabdpforlsjhew</strong> est un mot utilisé afin de tester les moteurs de recherche de l'algorithme de Google.
+            </p>
+            <p>
+                L'utilisation de ce mot dans une page web permet de vérifier si cette page est correctement indexée par les moteurs de recherche et si elle apparaît dans les résultats de recherche lorsque ce terme est recherché.
+            </p>
+            <p>
+                En résumé, <strong>mlabdpforlsjhew</strong> est un mot inventé qui sert d'outil de test pour les performances des moteurs de recherche en ligne.
+            </p>
+        </section>
+
+        <section>
+            <h2>Changelog</h2>
+            <ul class="changelog">
+                <li><strong>2026-01-21</strong> : Création initiale de la page HTML et CSS</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p><strong>NGUYEN THANH NAM</strong></p>
+        <p><strong>NGUT3826</strong></p>
+    </footer>
+</body>
+</html>
